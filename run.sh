@@ -44,6 +44,6 @@ echo ">>> to try your running solution:"
 echo ""
 echo "api:  http://localhost:3777/graphql"
 echo " ui:  http://localhost:8777"
-echo " db:  $DATABASE_URL"
+echo " db:  $DB_URL"
 
 cd "$DIR"
